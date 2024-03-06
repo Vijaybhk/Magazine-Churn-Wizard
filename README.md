@@ -1,4 +1,4 @@
-# Magazine-Subscription-Churn-Prediction
+# Magazine-Churn-Wizard
 
 
 A big problem for magazine publishers is keeping their subscriber base and reducing cancellations. Publishers can proactively identify at-risk customers and adopt specific retention efforts by predicting whether customers would churn.
